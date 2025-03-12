@@ -10,7 +10,7 @@ body{
 }
 
 body{
-    
+    overflow: hidden;
     font-family:  "Noto Sans TC", sans-serif;
 }
 
